@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" 
+    android:id="@+id/scenario_relative_layout"
+    >
+    <ImageView android:id="@+id/scenario_imageview"
+      android:layout_width="fill_parent"  
+      android:layout_height="fill_parent"  
+	  android:background="@drawable/scenario_4"    
+	  android:contentDescription="@string/scenario_imageview_desc"
+	/>    
+	<Button
+        android:id="@+id/hint_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/hint_button"
+    />            
+    <Button
+        android:id="@+id/navi_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/navi_button"/>        		
+</RelativeLayout>

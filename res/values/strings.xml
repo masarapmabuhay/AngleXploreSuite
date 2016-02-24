@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iLigtas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scenario_imageview_desc">scenario imageview desc</string>
+    <string name="scenario_text_imageview_desc">scenario text desc</string>
+        
+    <string name="bus_imageview_desc">bus imageview desc</string>
+    <string name="water_layer_imageview_desc">water layer imageview desc</string>   
+    <string name="mom_imageview_desc">mom imageview desc</string>        
+    <string name="you_imageview_desc">you imageview desc</string>        
+    <string name="baby_imageview_desc">baby imageview desc</string>        
+    <string name="pattern_left_imageview_desc">pattern left imageview desc</string>
+    <string name="pattern_right_imageview_desc">pattern right imageview desc</string>
+    <string name="fire_imageview_desc">fire imageview desc</string>
+    <string name="shoelace_imageview_desc">shoelace imageview desc</string>
+    <string name="bowl_imageview_desc">bowl imageview desc</string>
+    <string name="can_1_imageview_desc">can 1 imageview desc</string>
+    <string name="can_2_imageview_desc">can 2 imageview desc</string>
+    <string name="can_3_imageview_desc">can 3 imageview desc</string>
+    <string name="sock_imageview_desc">sock imageview desc</string>
+    <string name="dirty_water_imageview_desc">dirty water imageview desc</string>
+    <string name="water_bowl_imageview_desc">water bowl imageview desc</string>
+        
+    <string name="tarp_imageview_desc">tarp imageview desc</string>  
+    <string name="tarp_overhead_imageview_desc">tarp imageview desc</string>  
+    <string name="rescueboat_imageview_desc">rescueboat imageview desc</string>        
+    <string name="hint">hint</string>      
+    <string name="hint_scenario_1">Swipe from right to left to proceed to the next page.</string>
+    <string name="hint_scenario_2">Find your way home by dragging the school bus to your house.</string>
+    <string name="hint_scenario_3">Swipe downward to stop the flood.</string>
+    <string name="hint_scenario_4">Drag the water bottles to the empty garbage bag.</string>
+    <string name="hint_scenario_5">Tap the socks, shoes and pants.</string>
+    <string name="hint_scenario_6">Cut the ropes of the tarpaulin.</string>
+    <string name="hint_scenario_7">Rub your red bandana to wave it.</string>  
+    <string name="hint_scenario_8">Flick down to make your family members float to the rescue boat.</string>
+    <string name="hint_scenario_9">Drag the rescue boat to the evacuation center.</string>    
+    <string name="hint_scenario_10">Build a mini stove by dragging the items to the correct location.</string>      
+    <string name="hint_scenario_11">Thank you!</string>      
+    
+    <string name="navigation">Where do you want to go?</string>      
+</resources>
